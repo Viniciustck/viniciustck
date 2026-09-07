@@ -40,146 +40,24 @@ Também desenvolvo projetos com **Java e Spring Boot**, com foco em backend, API
 
 ### 🤖 Linguagens e Tecnologias
 
-<p>
-
-<img
-  alt="Java"
-  title="Java"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="Spring Boot"
-  title="Spring Boot"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="TypeScript"
-  title="TypeScript"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="React"
-  title="React"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="Next.js"
-  title="Next.js"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="Node.js"
-  title="Node.js"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="Tailwind CSS"
-  title="Tailwind CSS"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="PostgreSQL"
-  title="PostgreSQL"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="Redis"
-  title="Redis"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="Docker"
-  title="Docker"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="Git"
-  title="Git"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-&nbsp;
-
-<img
-  alt="GitHub"
-  title="GitHub"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,tailwind,postgres,redis,docker,git&theme=dark&perline=12"
+    alt="Linguagens e Tecnologias"
+  />
 </p>
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img
     height="180"
-    alt="Estatísticas do GitHub"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viniciustck&theme=tokyonight"
+    alt="Estatísticas do GitHub"
   />
-
   <img
     height="180"
-    alt="Linguagens mais utilizadas"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viniciustck&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
   />
 </p>
